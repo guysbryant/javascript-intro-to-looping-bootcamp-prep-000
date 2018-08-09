@@ -21,7 +21,7 @@ function whileLoop(num){
 function doWhileLoop(array){
   var i = 0;
   function incrementVariable(){
-    i++;
+    i = i + 1;
   }
   do{
     array.shift();
