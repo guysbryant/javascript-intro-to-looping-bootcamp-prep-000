@@ -25,6 +25,7 @@ function doWhileLoop(array){
   }
   do{
     array.unshift();
+    incrementVariable();
   }while(true){
     
   }
