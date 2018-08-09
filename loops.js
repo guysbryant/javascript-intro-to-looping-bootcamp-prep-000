@@ -19,11 +19,14 @@ function whileLoop(num){
 
 
 function doWhileLoop(array){
+  var i = 0;
   function incrementVariable(){
     i++;
   }
   do{
     array.unshift();
-  }while()
+  }while(true){
+    
+  }
   
 }
